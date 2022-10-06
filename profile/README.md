@@ -1,6 +1,6 @@
 <div align="center">
 
-![telos-logo](https://user-images.githubusercontent.com/2939354/193938902-9e5a2142-b914-4739-b755-1c34ce603f2b.svg)
+[![telos-logo](https://user-images.githubusercontent.com/2939354/193938902-9e5a2142-b914-4739-b755-1c34ce603f2b.svg)](https://telos.net)
 
 </br>
 
