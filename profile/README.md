@@ -11,4 +11,10 @@
 [![Discord](https://dcbadge.vercel.app/api/server/9hurWxq3Gf?style=for-the-badge&theme=gray)](https://discord.gg//9hurWxq3Gf)
 
 
+---
+
+<br />
+
+![Metrics](/github-metrics.svg)
+
 </div>
