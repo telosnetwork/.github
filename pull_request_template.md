@@ -26,3 +26,4 @@ You can remove the items that are not relevant for your project.
 -   [ ] I have removed any unnecessary console messages
 -   [ ] I have included all english text to the translation file
 -   [ ] I have created a new issue with the required translations for the currently supported languages
+-   [ ] I have added appropriate test coverage 
