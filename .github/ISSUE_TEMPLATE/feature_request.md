@@ -1,33 +1,20 @@
-<!---
-This template intends to be a guide to the minimal information necessary
-to have a well defined new feature
--->
-## Overview
-<!---
-Describe why this feature is important and who will benefit from it
-Add any design/mockup that should be followed
--->
+---
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
 
-## Acceptance criteria
-<!---
-List all the conditions that this feature will need to be considered done
-If applicable, list anything that should be out of scope
--->
+---
 
-## Technical considerations
-<!---
-Add any technical information that's relevant for this feature
--->
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-## Tasks
-<!---
-Only add tasks during the sprint planning meeting
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-Break the work for this feature to be completed into tasks
-Aim to list small pieces of work that will take a day or less that are
-required to achieve the acceptance criteria defined above
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-- [ ] Task 1
-- [ ] Task 2
--->
-
+**Additional context**
+Add any other context or screenshots about the feature request here.
