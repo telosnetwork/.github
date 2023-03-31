@@ -1,34 +1,38 @@
-<!---
-This template intends to be a guide to the minimal information necessary
-to have a bug that is easy to reproduce
-If you're not sure whether the information you have should be added or not, the answer
-is yes! The more context you provide, the easier it will be to reproduce it
--->
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
-## Overview
-<!---
-Briefly describe the bug, including the impact it has in the project
--->
+---
 
-## Steps to reproduce
-<!---
-List in small, easily executable steps, how to reproduce the bug
-Include any pre-conditions as well (e.g. mobile/desktop, pre-existent account)
-Add screenshots of the steps, if applicable
--->
+**Describe the bug**
+A clear and concise description of what the bug is.
 
+**To Reproduce**
+Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-## Current behavior
-<!---
-Describe the behavior that needs to be fixed
-Add screenshots of the error, if applicable
--->
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-## Expected behavior
-<!---
-Describe the behavior that will be implemented
--->
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
