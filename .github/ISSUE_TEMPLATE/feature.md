@@ -2,7 +2,7 @@
 name: Feature
 about: Adding a feature with overview and acceptance criteria and supporting information.
 title: EPIC | Feature
-labels: :microscope: Needs Refinement
+labels: Needs Refinement
 assignees: ''
 
 ---
