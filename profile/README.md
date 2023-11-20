@@ -1,7 +1,10 @@
-<div align="center">
-
-[![telos-logo](https://user-images.githubusercontent.com/2939354/193938902-9e5a2142-b914-4739-b755-1c34ce603f2b.svg)](https://telos.net)
-
+<div align="center" style="margin-bottom:36px !important">
+  <p>
+    <picture >
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/telosnetwork/.github/main/telos-logo.svg">
+      <img width="300" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/telosnetwork/.github/main/telos-logo-dark.svg">
+    </picture>
+  </p>
 </br>
 
 [![Twitter](https://img.shields.io/badge/follow-%40HelloTelos-ae73fa?logo=twitter&style=for-the-badge)](https://twitter.com/hellotelos)
