@@ -1,8 +1,8 @@
 <div align="center" style="margin-bottom:36px !important">
   <p>
     <picture >
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/telosnetwork/.github/main/telos-logo.svg">
-      <img width="300" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/telosnetwork/.github/main/telos-logo-dark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/telosnetwork/.github/main/telos-logo-dark.png">
+      <img width="300" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/telosnetwork/.github/main/telos-logo.png">
     </picture>
   </p>
 </br>
