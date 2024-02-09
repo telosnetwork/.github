@@ -1,10 +1,10 @@
 ---
 name: Feature
 about: Adding a feature with overview and acceptance criteria and supporting information.
-title: EPIC | Feature
-labels: Needs Refinement
+title: Feature
+labels: ["Needs Refinement"]
 assignees: ''
-
+projects: ["telosnetwork/49"]
 ---
 
 ## Overview

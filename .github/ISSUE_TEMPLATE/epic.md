@@ -1,8 +1,8 @@
 ---
-name: Epic Tracking Issue
+name: Epic
 about: Tracking issue for Epics typically used for tracking progress of a large feature or project
 title: "[Epic] - "
-labels: ["epic", "triage"]
+labels: ["Epic"]
 assignees:
   - rozzaswap
   - pmjanus
