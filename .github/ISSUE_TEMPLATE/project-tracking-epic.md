@@ -1,21 +1,17 @@
 ---
-name: Epic
+name: Project Tracking Epic
 about: Tracking issue for Epics typically used for tracking progress of a large feature or project
-title: "[Epic] - "
 labels: ["Epic"]
-assignees:
-  - rozzaswap
-  - pmjanus
 projects: ["telosnetwork/49"]
 ---
-
-## Key Links
-
-- Project where we are tracking this epic:
 
 ## Problem Statement
 
 - One or two sentences describing the problem this epic is solving
+
+## Key Links
+
+- Project where we are tracking this epic:
 
 ## Project Leads
 

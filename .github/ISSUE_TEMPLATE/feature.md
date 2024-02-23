@@ -4,7 +4,7 @@ about: Adding a feature with overview and acceptance criteria and supporting inf
 title: Feature
 labels: ["Needs Refinement"]
 assignees: ''
-projects: ["telosnetwork/49"]
+
 ---
 
 ## Overview
