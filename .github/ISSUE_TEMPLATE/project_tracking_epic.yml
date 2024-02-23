@@ -1,0 +1,19 @@
+name: Project Tracking Epic
+description: Tracking issue for Epics typically used for tracking progress of a large feature or project
+labels: ["Epic"]
+projects: ["telosnetwork/49"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Problem Statement
+      description: One or two sentences describing the problem this epic is solving
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please provide a detailed description of the issue or feature request
+    validations:
+      required: false
