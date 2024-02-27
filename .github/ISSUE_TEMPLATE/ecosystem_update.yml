@@ -1,0 +1,65 @@
+name: Ecosystem Update Request
+description: Request an update to the ecosystem section of Telos.net
+labels: ["triage"]
+projects: ["telosnetwork/58"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to request an addition or update to the ecosystem section of Telos.net. Please enter your project name in the title field, and fill in the form providing all details you would like to see shown within the Telos Ecosystem pages. 
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: New listing or update?
+      description: Are you applying for a new ecosystem listing or requesting an update to an existing listing?
+      options:
+        - New
+        - Update
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: application
+    attributes:
+      label: Select one or more relevant tags
+      multiple: true
+      options:
+        - Bridges
+        - Wallets
+        - Oracles
+        - NFTs
+        - Metaverse
+        - Launchpad
+        - Social
+        - DeFi
+        - Block Explorers
+        - Gaming
+        - Exchanges
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Please provide a short summary of the project, ideally one or two sentences
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please provide a detailed description of the project, Ideally one or two short paragraphs.
+    validations:
+      required: true
+  - type: textarea
+    id: profile-image
+    attributes:
+      label: Profile Picture
+      description: Please attach a profile picture for the project. The images should be around 384x384px.
+    validations:
+      required: true
+  - type: textarea
+    id: project-images
+    attributes:
+      label: Project Images
+      description: Please attach a collection of 4-7 images showcasing the project. The images should be around 500x730px.
+    validations:
+      required: false
