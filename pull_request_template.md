@@ -26,4 +26,5 @@ You can remove the items that are not relevant for your project.
 -   [ ] I have removed any unnecessary console messages
 -   [ ] I have included all english text to the translation file and/or created a new issue with the required translations for the currently supported languages
 -   [ ] I have tested for mobile functionality and responsiveness
--   [ ] I have added appropriate test coverage 
+-   [ ] I have added appropriate test coverage
+-   [ ] I have updated relevant documentation and/or opened a separate issue to cover the updates (Issue URL: )
