@@ -1,6 +1,6 @@
 name: Ecosystem Update Request
 description: Request an update to the ecosystem section of Telos.net
-labels: ["triage"]
+labels: ["Triage"]
 projects: ["telosnetwork/58"]
 body:
   - type: markdown

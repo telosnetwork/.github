@@ -1,6 +1,6 @@
 name: Website Update Request
 description: Request an update to the Telos.net, 2k18 or Tekika websites
-labels: ["triage"]
+labels: ["Triage"]
 projects: ["telosnetwork/58"]
 body:
   - type: markdown
