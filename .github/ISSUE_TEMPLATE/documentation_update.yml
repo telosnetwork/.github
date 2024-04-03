@@ -1,0 +1,32 @@
+name: Documentation Update Request
+description: Request an update to Telos documentation on docs.telos.net
+labels: ["Triage"]
+projects: ["telosnetwork/58"]
+assignees:
+  - rozzaswap
+body:
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      description: Would you like to request an update to existing content, or add new content?
+      options:
+        - New Content
+        - Update
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Please provide details on where the new documention should live within docs.telos.net
+    validations:
+      required: false
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Please provide the documention content you would like to see added or updated
+    validations:
+      required: true
